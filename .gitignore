@@ -48,4 +48,16 @@ npm-debug.log*
 Thumbs.db
 
 # Vite
-. vite/
+. vite/# Environment variables
+.env
+
+# Dependencies
+node_modules/
+
+# Logs
+*. log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
